@@ -1,0 +1,29 @@
+
+
+body {
+  width: 300px;
+  min-height: 200px;
+}
+
+.cit_icon {
+  padding: 5px;
+}
+
+.titulo hr {
+  margin: 0;
+}
+
+.titulo p {
+  margin: 5px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.opcoes {
+  padding: 5px;
+}
+
+.opcoes p {
+  padding: 5px;
+  font-size: 20px;
+}
